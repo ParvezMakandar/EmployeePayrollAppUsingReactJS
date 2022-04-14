@@ -1,0 +1,139 @@
+{
+  "users": [
+    {
+      "name": "Parvez",
+      "profileArray": [
+        {
+          "url": "../../Assets/profile-images/Ellipse -3.png"
+        },
+        {
+          "url": "../../Assets/profile-images/Ellipse -1.png"
+        },
+        {
+          "url": "../../Assets/profile-images/Ellipse -8.png"
+        },
+        {
+          "url": "../../Assets/profile-images/Ellipse -7.png"
+        }
+      ],
+      "allDepartment": [
+        "HR",
+        "Sales",
+        "Finance",
+        "Engineer",
+        "Others"
+      ],
+      "departMentValue": [
+        "Finance"
+      ],
+      "gender": "male",
+      "salary": "31000",
+      "day": "01",
+      "month": "Dec",
+      "year": "2021",
+      "startDate": "",
+      "notes": "Good",
+      "id": 9,
+      "profilePic": "../../Assets/profile-images/Ellipse -3.png",
+      "isUpdate": false,
+      "error": {
+        "department": "",
+        "name": "",
+        "gender": "",
+        "salary": "",
+        "profilePic": "",
+        "startDate": ""
+      }
+    },
+    {
+      "name": "Zaid",
+      "profileArray": [
+        {
+          "url": "../../Assets/profile-images/Ellipse -3.png"
+        },
+        {
+          "url": "../../Assets/profile-images/Ellipse -1.png"
+        },
+        {
+          "url": "../../Assets/profile-images/Ellipse -8.png"
+        },
+        {
+          "url": "../../Assets/profile-images/Ellipse -7.png"
+        }
+      ],
+      "allDepartment": [
+        "HR",
+        "Sales",
+        "Finance",
+        "Engineer",
+        "Others"
+      ],
+      "departMentValue": [
+        "Engineer"
+      ],
+      "gender": "male",
+      "salary": "31000",
+      "day": "01",
+      "month": "Dec",
+      "year": "2021",
+      "startDate": "",
+      "notes": "Good",
+      "id": 10,
+      "profilePic": "../../Assets/profile-images/Ellipse -3.png",
+      "isUpdate": false,
+      "error": {
+        "department": "",
+        "name": "",
+        "gender": "",
+        "salary": "",
+        "profilePic": "",
+        "startDate": ""
+      }
+    },
+    {
+      "name": "Aqsa",
+      "profileArray": [
+        {
+          "url": "../../Assets/profile-images/Ellipse -3.png"
+        },
+        {
+          "url": "../../Assets/profile-images/Ellipse -1.png"
+        },
+        {
+          "url": "../../Assets/profile-images/Ellipse -8.png"
+        },
+        {
+          "url": "../../Assets/profile-images/Ellipse -7.png"
+        }
+      ],
+      "allDepartment": [
+        "HR",
+        "Sales",
+        "Finance",
+        "Engineer",
+        "Others"
+      ],
+      "departMentValue": [
+        "Sales"
+      ],
+      "gender": "female",
+      "salary": "123333",
+      "day": "17",
+      "month": "Aug",
+      "year": "2021",
+      "startDate": "",
+      "notes": "dd",
+      "id": 11,
+      "profilePic": "../../Assets/profile-images/Ellipse -1.png",
+      "isUpdate": false,
+      "error": {
+        "department": "",
+        "name": "",
+        "gender": "",
+        "salary": "",
+        "profilePic": "",
+        "startDate": ""
+      }
+    }
+  ]
+}
